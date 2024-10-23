@@ -2,6 +2,9 @@
 
 ### I'm [Dmitry] 
 
+Master's student at ITMO with experience in civil engineering and data science. 
+
+
 ---
 
 ### 🔧 Tech Stack:
@@ -10,6 +13,7 @@
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
+
 ---
 
 ### 📊 GitHub Stats:

@@ -1,7 +1,4 @@
 # Hello! 👋
-
-
-
 ---
 
 ### 🔧 Tech Stack:

@@ -1,8 +1,5 @@
 # Hello! 👋
 
-### I'm [Dmitry] 
-
-Master's student at ITMO with experience in civil engineering and data science. 
 
 
 ---

@@ -6,8 +6,6 @@ About
 
 ![About](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=000000&lines=AutoML+%7C+AI+Agents+%7C+ML)
 
-Building intelligent automation solutions with AI agents and ML.
-
 ---
 
 Tech Stack

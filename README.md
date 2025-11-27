@@ -2,14 +2,6 @@
 
 ---
 
-About
-
-![About](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=000000&lines=AutoML+%7C+AI+Agents+%7C+ML)
-
----
-
-Tech Stack
-
 ![Skills](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=000000&lines=Languages+%7C+Frameworks+%7C+Tools)
 
 ![Python](https://img.shields.io/badge/Python-1C1C1C?style=flat-square&logo=python&logoColor=white)

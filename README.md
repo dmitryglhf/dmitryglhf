@@ -6,6 +6,8 @@
 
 Exploring multi-agent systems and AutoML.
 
+Writing about [agentic approaches to ML automation](https://habr.com/ru/articles/972686/).
+
 ---
 
 [![Telegram](https://img.shields.io/badge/Telegram-5E81AC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dimaglhf)

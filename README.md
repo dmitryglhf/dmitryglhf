@@ -19,4 +19,4 @@ Exploring multi-agent systems and AutoML, with a soft spot for systems programmi
 ---
 
 [![Telegram](https://img.shields.io/badge/Telegram-5E81AC?style=flat-square&logo=telegram&logoColor=white)](https://t.me/dimaglhf)
-[![Email](https://img.shields.io/badge/Email-5E81AC?style=flat-square&logo=protonmail&logoColor=white)](mailto:dima.rize@yandex.ru)
+[![Email](https://img.shields.io/badge/Email-5E81AC?style=flat-square&logo=protonmail&logoColor=white)](mailto:me@dmitryglhf.ru)

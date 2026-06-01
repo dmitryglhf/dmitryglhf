@@ -4,9 +4,17 @@
 
 ### About
 
-Exploring multi-agent systems and AutoML.
+Exploring multi-agent systems and AutoML, with a soft spot for systems programming.
 
-Writing about [agentic approaches to ML automation](https://habr.com/ru/articles/972686/).
+### Projects
+
+- [**edda**](https://github.com/dmitryglhf/edda) - vector search engine in Zig, with Python bindings
+- [**scald**](https://github.com/dmitryglhf/scald) - AutoML driven by collaborating AI agents
+
+### Writing
+
+- **RU** · [Автоматизируем машинное обучение с помощью ИИ-агентов](https://habr.com/ru/articles/972686/)
+- **EN** · [Automating Machine Learning with AI Agents](https://dev.to/enorth/automating-machine-learning-with-ai-agents-1i5c)
 
 ---
 

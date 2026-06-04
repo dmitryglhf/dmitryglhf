@@ -12,9 +12,8 @@ Exploring multi-agent systems and AutoML, with a soft spot for systems programmi
 - [**scald**](https://github.com/dmitryglhf/scald) - AutoML driven by collaborating AI agents
 
 ### Writing
-
-- **RU** · [Автоматизируем машинное обучение с помощью ИИ-агентов](https://habr.com/ru/articles/972686/)
-- **EN** · [Automating Machine Learning with AI Agents](https://dev.to/enorth/automating-machine-learning-with-ai-agents-1i5c)
+- **Automating Machine Learning with AI Agents** · [EN](https://dev.to/enorth/automating-machine-learning-with-ai-agents-1i5c) · [RU](https://habr.com/ru/articles/972686/)
+- **How Finite State Machines Make an Agent More Reliable, and Where pydantic-graph Fits In** · [EN](https://dev.to/enorth/how-finite-state-machines-make-an-agent-more-reliable-and-where-pydantic-graph-fits-in-2imp) · [RU](https://habr.com/ru/articles/1043808/)
 
 ---
 
